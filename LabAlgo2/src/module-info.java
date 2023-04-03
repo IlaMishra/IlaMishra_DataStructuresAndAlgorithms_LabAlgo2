@@ -1,0 +1,2 @@
+module LabAlgo2 {
+}
